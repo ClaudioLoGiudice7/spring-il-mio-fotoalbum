@@ -1,0 +1,2 @@
+INSERT INTO `photo` (`id`, `description`, `title`, `visible`) VALUES (NULL, 'Descrizione 1', 'Ciao', b'1');
+INSERT INTO `photo` (`id`, `description`, `title`, `visible`) VALUES (NULL, 'Descrizione 2', 'CCCCiao', b'1');
